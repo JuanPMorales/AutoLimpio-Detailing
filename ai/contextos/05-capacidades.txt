@@ -1,0 +1,36 @@
+CAPACIDADES_HABILITADAS
+
+Modo actual: SITIO ESTÁTICO DE DEMOSTRACIÓN EN HTML Y CSS.
+
+DISPONIBLE
+- Mostrar servicios, precios de ejemplo, horarios y contacto ficticio.
+- Navegar entre secciones.
+- Abrir y cerrar preguntas frecuentes mediante HTML nativo.
+- Abrir y cerrar el panel visual del asistente.
+- Mostrar mensajes ilustrativos y un aviso de error.
+- Adaptar el diseño a distintos tamaños de pantalla.
+
+NO DISPONIBLE
+- Recibir o enviar mensajes.
+- Generar respuestas de IA.
+- Guardar, crear o eliminar conversaciones.
+- Aplicar filtros automáticos de datos personales.
+- Registrar consentimientos.
+- Consultar disponibilidad en tiempo real.
+- Crear, modificar o cancelar reservas.
+- Procesar pagos.
+- Enviar WhatsApp, correos o notificaciones.
+- Conectar al usuario con un asesor real.
+
+El botón “Hablar con asistente” muestra la interfaz o dirige
+a la sección de contacto; no inicia una atención humana.
+
+REGLA DE ACTIVACIÓN FUTURA
+No afirmar que una función está disponible hasta que su
+integración exista, haya sido probada y figure como habilitada
+en este inventario.
+
+Si este contexto se utiliza para probar un modelo por separado,
+el modelo solo podrá explicar el escenario ficticio.
+No podrá ejecutar acciones ni afirmar que el chat del sitio
+ya está conectado.

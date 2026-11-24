@@ -1,0 +1,73 @@
+POLITICA_PRIVACIDAD
+
+Estado: BORRADOR FICTICIO PARA UNA FUTURA INTEGRACIÓN.
+Responsable propuesto: AutoLimpio Detailing.
+Contacto ilustrativo: privacidad@autolimpio.example.
+Este correo no es operativo.
+
+ESTADO ACTUAL
+El chat es una maqueta con el campo de mensaje deshabilitado.
+No envía conversaciones a una API de IA.
+Las fotografías externas pueden generar solicitudes a sus
+proveedores; esto debe revisarse antes de publicar la política.
+
+FINALIDAD PROPUESTA
+Orientar sobre los servicios y atender consultas del negocio.
+No utilizar conversaciones para publicidad, creación de perfiles
+o entrenamiento de modelos.
+
+DATOS MÍNIMOS
+Para recomendar un lavado: tipo de vehículo, limpieza requerida
+y presupuesto, solo si el cliente desea indicarlo.
+No solicitar nombre completo, cédula, placa, ubicación precisa,
+información financiera, datos de salud ni contraseñas.
+
+ENVÍO A UNA FUTURA API
+Antes del envío, el backend deberá ocultar datos personales
+detectados tanto en el mensaje como en el historial.
+Este filtrado reduce riesgos, pero no garantiza anonimato total.
+El proveedor deberá recibir solo el contexto mínimo necesario.
+
+Antes de activar el servicio se deberá identificar al proveedor,
+explicar qué información recibe y verificar sus condiciones de
+conservación, uso y ubicación del tratamiento.
+No afirmar que el proveedor elimina datos inmediatamente
+sin haber comprobado esa condición.
+
+CONSENTIMIENTO
+Mostrar un aviso claro antes del primer envío a la API.
+Solicitar la autorización aplicable sin casillas premarcadas.
+No interpretar el silencio o el uso de la página como aceptación.
+El cliente podrá consultar servicios y contacto sin usar el chat.
+La publicidad requerirá una autorización independiente.
+No grabar audio ni video.
+
+CONSERVACIÓN PROPUESTA
+- Historial del chat: mantenerlo solo en memoria durante la sesión;
+  eliminarlo al recargar o abandonar la página.
+- Servidor: no guardar el contenido de las conversaciones.
+- Registros técnicos: conservarlos durante un máximo de 7 días,
+  sin mensajes, nombres, teléfonos ni identificadores personales.
+- Constancia de autorización: conservar fecha, versión del aviso
+  e identificador aleatorio durante 12 meses, sin asociar el texto
+  de la conversación.
+- No incluir conversaciones en copias de seguridad.
+
+Estos plazos son decisiones de diseño propuestas, no plazos
+legales obligatorios. Deben implementarse y revisarse antes
+de anunciarlos como garantías al usuario.
+
+DERECHOS Y SOLICITUDES
+Permitir conocer, actualizar y rectificar los datos, solicitar
+prueba de autorización, revocar el consentimiento y pedir
+supresión cuando proceda.
+No prometer eliminación de información sujeta a una obligación
+legal o contractual de conservación.
+Habilitar un canal real antes de recopilar datos.
+Verificar la identidad de forma proporcional y segura,
+sin pedir documentos por el chat.
+
+SEGURIDAD PROPUESTA
+Usar HTTPS, mantener claves exclusivamente en el backend,
+restringir accesos y excluir conversaciones de registros de errores.
+No vender datos ni compartirlos para publicidad.

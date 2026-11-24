@@ -1,0 +1,74 @@
+CONTEXTO_NEGOCIO
+
+Estado: DEMOSTRACIÓN. Todos los datos son ficticios.
+Nombre: AutoLimpio Detailing.
+Actividad: lavado y cuidado estético de vehículos particulares.
+Ubicación: Avenida del Brillo 123, barrio Los Cedros, Bogotá.
+Teléfono ilustrativo, no operativo: +57 300 000 0000.
+Instagram ilustrativo: @autolimpio.demo.
+Moneda: pesos colombianos (COP).
+
+HORARIOS
+- Lunes a sábado: 8:00 a. m. a 6:00 p. m.
+- Domingos: 9:00 a. m. a 2:00 p. m.
+- Festivos: consultar; no existe un horario confirmado.
+
+SERVICIOS Y PRECIOS DE EJEMPLO
+- Lavado exterior: desde $25.000.
+  Incluye carrocería, rines y secado.
+  Duración orientativa: 30 a 45 minutos.
+
+- Lavado interior: desde $35.000.
+  Incluye aspirado y limpieza de tablero, puertas y superficies.
+  No incluye limpieza profunda de tapicería.
+  Duración orientativa: 45 a 60 minutos.
+
+- Lavado completo: desde $55.000.
+  Combina lavado exterior e interior.
+  Duración orientativa: 60 a 90 minutos.
+
+- Lavado premium: desde $90.000.
+  Incluye lavado completo, acabado detallado y aplicación de cera.
+  No incluye polichado correctivo.
+  Duración orientativa: 90 a 120 minutos.
+
+- Limpieza de tapicería: desde $120.000.
+  Incluye limpieza profunda de asientos y textiles compatibles.
+  Duración orientativa: 3 a 5 horas, más el secado necesario.
+
+- Polichado y encerado: desde $150.000.
+  Incluye evaluación de pintura, polichado superficial y cera.
+  No garantiza eliminar rayones profundos.
+  Duración orientativa: 3 a 5 horas.
+
+CONDICIONES
+Los precios base corresponden a un automóvil compacto.
+Otros tamaños, suciedad intensa o tratamientos adicionales
+requieren cotización previa y aceptación del cliente.
+Las duraciones son estimaciones, no compromisos de entrega.
+
+PROMOCIÓN DE EJEMPLO
+Martes de brillo: 15 % de descuento sobre el lavado completo.
+Precio promocional base: $46.750.
+No acumulable con otras promociones.
+Vigencia ficticia: hasta el 31 de diciembre de 2026.
+
+RESERVAS
+En el escenario de ejemplo, los lavados básicos admiten visitas
+sin cita, sujetas a disponibilidad.
+Tapicería y polichado requieren coordinación previa con un asesor.
+El sitio actual no recibe ni confirma reservas.
+
+SERVICIOS NO OFRECIDOS
+Lavado de motor, reparaciones mecánicas, pintura y latonería.
+
+REGLAS PARA RECOMENDAR
+- Solo suciedad exterior: sugerir lavado exterior.
+- Suciedad exterior e interior: sugerir lavado completo.
+- Interés en acabado detallado y cera: explicar lavado premium.
+- Manchas en asientos o textiles: consultar por tapicería.
+- Problemas de pintura: recomendar evaluación presencial,
+  sin prometer resultados.
+
+Nunca presentar estos datos como información de un negocio real.
+Si se usan en una prueba, indicar: “En este escenario de ejemplo…”.

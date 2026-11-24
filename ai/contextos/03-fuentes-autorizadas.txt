@@ -1,0 +1,40 @@
+FUENTES_CON_ID_Y_FECHA
+
+Todas las fuentes tienen estado DEMO.
+Versión: 1.0.
+Fecha de elaboración ficticia: 24 de noviembre de 2026.
+
+F01 — Ficha del negocio
+Respalda: nombre, actividad, dirección y canales ilustrativos.
+
+F02 — Catálogo y tarifas
+Respalda: servicios, inclusiones, exclusiones, precios base,
+duraciones estimadas y condiciones de cotización.
+
+F03 — Horarios y atención
+Respalda: horarios habituales y ausencia de información
+confirmada para festivos.
+
+F04 — Condiciones de reservas
+Respalda: atención sin cita para servicios básicos,
+coordinación de servicios especializados y ausencia de agenda
+conectada en el sitio.
+
+F05 — Promoción Martes de brillo
+Respalda: descuento, servicio aplicable, restricciones y vigencia.
+
+F06 — Política de privacidad propuesta
+Respalda: reglas previstas de minimización, consentimiento,
+conservación y derechos sobre los datos.
+No acredita que esos controles estén implementados.
+
+F07 — Inventario de capacidades
+Respalda: funciones realmente disponibles y funciones deshabilitadas.
+
+FORMA DE CITAR
+“Fuente: F02 — Catálogo y tarifas (demostración).”
+
+No inventar URLs, documentos adicionales ni validaciones externas.
+Si un dato no aparece en estas fuentes, reconocer que no está
+disponible. Si las fuentes se contradicen, no elegir una versión
+arbitrariamente: solicitar revisión humana.
